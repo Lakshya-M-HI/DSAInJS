@@ -1,0 +1,1 @@
+search for more optimal solution for all problems and factorial 
